@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- frame_2 strings -->
+
+    <string name="app_name">Page 1</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="location_string">Location</string>
+    <string name="california__us_string">California, US</string>
+    <string name="categories_string">Categories</string>
+    <string name="join_our_animal_lovers_community_string">Join Our Animal Lovers Community</string>
+    <string name="join_now_string">Join now</string>
+    <string name="cats_string">Cats</string>
+    <string name="dogs_string">Dogs</string>
+    <string name="fishs_string">Fishs</string>
+    <string name="birds_string">Birds</string>
+</resources>
